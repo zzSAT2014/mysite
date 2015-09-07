@@ -1,0 +1,944 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"time",
+				"timezone	(module)"
+			],
+			[
+				"a",
+				"all_tasks	(statement)"
+			],
+			[
+				"confi",
+				"config	(statement)"
+			],
+			[
+				"tim",
+				"timeLabel	(statement)"
+			],
+			[
+				"F",
+				"ForeignKey	(class)"
+			],
+			[
+				"D",
+				"DateTimeField	(class)"
+			],
+			[
+				"ch",
+				"CharField	(class)"
+			],
+			[
+				"M",
+				"Model	(class)"
+			],
+			[
+				"cu",
+				"curprogress	(statement)"
+			],
+			[
+				"Bo",
+				"BooleanVar	(class)"
+			],
+			[
+				"inter",
+				"interval	(param)"
+			],
+			[
+				"max",
+				"maxtime	(param)"
+			],
+			[
+				"the",
+				"theme_names	(function)"
+			],
+			[
+				"reco",
+				"record_pattern	(function)"
+			],
+			[
+				"PATTER",
+				"pattern_list"
+			],
+			[
+				"from",
+				"from_file	(statement)"
+			],
+			[
+				"ask",
+				"askopenfilename	(function)"
+			],
+			[
+				"tk",
+				"tkFileDialog	(module)"
+			],
+			[
+				"ro",
+				"ROOT	(statement)"
+			],
+			[
+				"cur",
+				"curpatnum	(statement)"
+			],
+			[
+				"set",
+				"set_pat_num	(function)"
+			],
+			[
+				"de",
+				"delete	(function)"
+			],
+			[
+				"pat",
+				"pat_name	(statement)"
+			],
+			[
+				"pack",
+				"pack_forget	(function)"
+			],
+			[
+				"pack_",
+				"pack_forget	(function)"
+			],
+			[
+				"pa",
+				"pat_name	(statement)"
+			],
+			[
+				"wa",
+				"waste_time	(class)"
+			],
+			[
+				"p",
+				"passprogram	(statement)"
+			],
+			[
+				"m",
+				"myprogram	(statement)"
+			],
+			[
+				"progra",
+				"program_choice	(statement)"
+			],
+			[
+				"program_",
+				"program_mb	(statement)"
+			],
+			[
+				"s",
+				"specify_type	(function)"
+			],
+			[
+				"pr",
+				"programs	(statement)"
+			],
+			[
+				"pro",
+				"program_choice	(statement)"
+			],
+			[
+				"da",
+				"data_fh	(statement)"
+			],
+			[
+				"on",
+				"on_resume	(function)"
+			],
+			[
+				"c",
+				"create_sperator	(function)"
+			],
+			[
+				"se",
+				"separator	(statement)"
+			],
+			[
+				"task",
+				"task_disp"
+			],
+			[
+				"crea",
+				"create_app	(function)"
+			],
+			[
+				"A",
+				"Application	(class)"
+			],
+			[
+				"test",
+				"test_grammer	(module)"
+			],
+			[
+				"ta",
+				"task_disp"
+			],
+			[
+				"create_",
+				"create_right_panel	(function)"
+			],
+			[
+				"pla",
+				"player	(statement)"
+			],
+			[
+				"conf",
+				"config	(statement)"
+			],
+			[
+				"f",
+				"filename	(param)"
+			],
+			[
+				"file",
+				"filename	(statement)"
+			],
+			[
+				"play",
+				"play_music	(module)"
+			],
+			[
+				"con",
+				"config	(statement)"
+			],
+			[
+				"dia",
+				"DISABLED	(statement)"
+			],
+			[
+				"thre",
+				"threading	(module)"
+			],
+			[
+				"T",
+				"Thread	(class)"
+			],
+			[
+				"pal",
+				"player_thread	(statement)"
+			],
+			[
+				"str",
+				"streaming	(param)"
+			],
+			[
+				"cum",
+				"cumTime	(statement)"
+			],
+			[
+				"ti",
+				"timeLabel"
+			],
+			[
+				"sube",
+				"subject_choice	(statement)"
+			],
+			[
+				"det",
+				"detail	(statement)"
+			],
+			[
+				"dura",
+				"duration	(statement)"
+			],
+			[
+				"detail",
+				"detail_for_commit	(statement)"
+			],
+			[
+				"get",
+				"get_table_name	(function)"
+			],
+			[
+				"com",
+				"commit_completeion	(statement)"
+			],
+			[
+				"get_",
+				"get_expected_duration	(function)"
+			],
+			[
+				"du",
+				"duration	(statement)"
+			],
+			[
+				"min",
+				"min_ind	(statement)"
+			],
+			[
+				"date",
+				"date	(statement)"
+			],
+			[
+				"xr",
+				"xlrd	(module)"
+			],
+			[
+				"find",
+				"find_max_index"
+			],
+			[
+				"ce",
+				"cell_value	(function)"
+			],
+			[
+				"n",
+				"nrows	(statement)"
+			],
+			[
+				"sta",
+				"start_rowx	(param)"
+			],
+			[
+				"col",
+				"col_values	(function)"
+			],
+			[
+				"dur",
+				"duration_details	(function)"
+			],
+			[
+				"Strin",
+				"StringVar	(class)"
+			],
+			[
+				"pass",
+				"passcourse	(statement)"
+			],
+			[
+				"my",
+				"mycourse	(statement)"
+			],
+			[
+				"sql",
+				"sqlCom	(module)"
+			],
+			[
+				"manage",
+				"managementDB"
+			],
+			[
+				"row",
+				"rowspan"
+			],
+			[
+				"commit",
+				"commit_completeion	(statement)"
+			],
+			[
+				"Int",
+				"IntVar	(class)"
+			],
+			[
+				"on_p",
+				"on_pause_completion	(function)"
+			],
+			[
+				"del",
+				"deltacompleted	(statement)"
+			],
+			[
+				"on_",
+				"on_pause_completion"
+			],
+			[
+				"grid",
+				"grid_forget	(function)"
+			],
+			[
+				"R",
+				"RIDGE	(statement)"
+			],
+			[
+				"d",
+				"DictCursor	(class)"
+			],
+			[
+				"cour",
+				"course_mb	(statement)"
+			],
+			[
+				"subject_",
+				"subject_mb	(statement)"
+			],
+			[
+				"subjec",
+				"subject_mb	(statement)"
+			],
+			[
+				"tex",
+				"textVariable"
+			],
+			[
+				"sub",
+				"subject_choice	(statement)"
+			],
+			[
+				"Str",
+				"StringVar	(class)"
+			],
+			[
+				"Me",
+				"Menubutton	(class)"
+			],
+			[
+				"RA",
+				"RAISED	(statement)"
+			],
+			[
+				"fo",
+				"fo_color	(statement)"
+			],
+			[
+				"up",
+				"update_line_number	(function)"
+			],
+			[
+				"In",
+				"InsertLable	(statement)"
+			],
+			[
+				"wor",
+				"word_counts	(statement)"
+			],
+			[
+				"wo",
+				"word_counts	(statement)"
+			],
+			[
+				"ex",
+				"extracter	(statement)"
+			],
+			[
+				"fac",
+				"facet_grid	(class)"
+			],
+			[
+				"last",
+				"lastrow	(statement)"
+			],
+			[
+				"new",
+				"new_file	(function)"
+			],
+			[
+				"save",
+				"save_file	(function)"
+			],
+			[
+				"sh",
+				"showinfo	(function)"
+			],
+			[
+				"open",
+				"open_file	(function)"
+			],
+			[
+				"oepn",
+				"open_file	(function)"
+			],
+			[
+				"sa",
+				"save_file	(function)"
+			],
+			[
+				"ope",
+				"open_file	(function)"
+			],
+			[
+				"fil",
+				"filename	(statement)"
+			],
+			[
+				"re",
+				"replacement	(param)"
+			],
+			[
+				"rep",
+				"Replace"
+			],
+			[
+				"String",
+				"StringVar	(class)"
+			],
+			[
+				"qu",
+				"query_raining	(statement)"
+			],
+			[
+				"Group",
+				"groupby	(function)"
+			],
+			[
+				"tu",
+				"turnstile_weather	(param)"
+			],
+			[
+				"plot_",
+				"plot_weather_data	(function)"
+			],
+			[
+				"geom_",
+				"geom_bar	(class)"
+			],
+			[
+				"select",
+				"select_line	(function)"
+			],
+			[
+				"ev",
+				"event_generate	(function)"
+			],
+			[
+				"Entri",
+				"ENTRIESn_hourly"
+			],
+			[
+				"withou",
+				"without_rain_mean"
+			],
+			[
+				"entrie",
+				"entriesn_hourly"
+			],
+			[
+				"x",
+				"xlabel	(function)"
+			],
+			[
+				"not",
+				"not_raining	(statement)"
+			],
+			[
+				"read_",
+				"read_csv	(function)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Zhe/Documents/curdjango/poll_app.sublime-project",
+			"settings":
+			{
+				"buffer_size": 94,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Build With: Python"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 327.0,
+		"history":
+		[
+			"python -u \"/Users/Zhe/Google Drive/data analyze/Berkeley.py\"",
+			"python -u py_compile \"/Users/Zhe/Google Drive/data analyze/Berkeley.py\"",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Zhe/Documents/curdjango"
+	],
+	"file_history":
+	[
+		"/Users/Zhe/Documents/pyGUI/pyGUI",
+		"/Users/Zhe/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/Zhe/Library/Application Support/Sublime Text 3/Packages/Anaconda/LICENSE",
+		"/Users/Zhe/Library/Application Support/Sublime Text 3/Packages/User/SublimePython.sublime-settings",
+		"/Users/Zhe/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/Zhe/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/Users/Zhe/Documents/pyGUI/manager/study_info.txt",
+		"/Users/Zhe/Documents/pyGUI/manager/manager.py",
+		"/Users/Zhe/Documents/pyGUI/manager/task_disp.py",
+		"/Users/Zhe/Documents/django_projects/cms_1/cms/cms/urls.py",
+		"/Users/Zhe/Documents/django_projects/cms_1/cms/cms/settings.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_3_code/progress_bar.py",
+		"/Users/Zhe/Documents/pyGUI/manager/abstract_task.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_3_code/broken.py",
+		"/Users/Zhe/Documents/pyGUI/manager/waste_time_task.py",
+		"/Users/Zhe/Documents/pyGUI/manager/waste_time_info.txt",
+		"/Users/Zhe/Documents/pyGUI/manager/test_grammer.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_3_code/3.07.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_3_code/3.05.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_3_code/play_music.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_3_code/test_grammer.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_2_code/2.04.py",
+		"/Users/Zhe/Documents/pyGUI/manager/study_task.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_3_code/3.03.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_3_code/3.04.py",
+		"/Users/Zhe/Documents/pyGUI/manager/task_disp.pyc",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_2_code/ln_number.py",
+		"/Users/Zhe/Documents/pyGUI/manager/sqlCom.py",
+		"/Users/Zhe/Documents/pyGUI/manager/testDB.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_1_code/1.03.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/test_python.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_2_code/2.11.py",
+		"/Users/Zhe/Documents/pyGUI/manager_0/abstract_task.py",
+		"/Users/Zhe/Documents/pyGUI/manager_0/task_disp.py",
+		"/Users/Zhe/Documents/pyGUI/manager_0/study_task.py",
+		"/Users/Zhe/Documents/pyGUI/manager_0/testDB.py",
+		"/Users/Zhe/Documents/pyGUI/manager_0/progress_task.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_2_code/2.12.py",
+		"/Users/Zhe/Google Drive/data analyze/lesson3_2.py",
+		"/Users/Zhe/Google Drive/data analyze/testgrammer.py",
+		"/Users/Zhe/Google Drive/data analyze/lesson_5_3.py",
+		"/Users/Zhe/Google Drive/data analyze/lesson_5_2.py",
+		"/Users/Zhe/Google Drive/data analyze/lesson4_hw1.py",
+		"/Users/Zhe/Google Drive/data analyze/lesson4_hw2.py",
+		"/Users/Zhe/Google Drive/data analyze/lesson_5_1.py",
+		"/Users/Zhe/Google Drive/data analyze/lesson_5_2",
+		"/Users/Zhe/Documents/pyGUI/SyncScroll.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_2_code/2.08.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_2_code/2.09.py",
+		"/Users/Zhe/Google Drive/data analyze/lesson4_ggplot1.py",
+		"/Users/Zhe/Google Drive/data analyze/lesson4_ggplot2.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_2_code/2.10.py",
+		"/Users/Zhe/Google Drive/data analyze/hm.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_2_code/2.02.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_2_code/2.06.py",
+		"/Users/Zhe/Google Drive/data analyze/lesson3_1.py",
+		"/Users/Zhe/Google Drive/data analyze/lesson3_3.py",
+		"/Users/Zhe/Google Drive/data analyze/lesson3_4.py",
+		"/Users/Zhe/Google Drive/data analyze/lesson3_3",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_1_code/1.10.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_1_code/1.08.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_1_code/1.13.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_1_code/calculator.py",
+		"/Users/Zhe/Documents/pyGUI/project1.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_1_code/1.06.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_1_code/1.04.py",
+		"/Users/Zhe/Desktop/mathex.py",
+		"/Users/Zhe/Documents/pyGUI/7941OT_Code/7941OT_1_code/1.09.py",
+		"/Users/Zhe/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Zhe/Google Drive/data analyze/pandahist.py",
+		"/Users/Zhe/Google Drive/data analyze/barplot.py",
+		"/Users/Zhe/Google Drive/data analyze/album.json",
+		"/Users/Zhe/Google Drive/data analyze/Berkeley.py",
+		"/Users/Zhe/Google Drive/data analyze/trypanda.py",
+		"/Users/Zhe/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/Zhe/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Zhe/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Zhe/Documents/caam 470/exam/test.py",
+		"/Users/Zhe/Documents/caam 470/hw2/prob2.py",
+		"/Users/Zhe/Desktop/hw_5_boruvka/src/main/resources/myjob.slurm",
+		"/Users/Zhe/Desktop/hw_5_boruvka/src/main/java/edu/rice/comp322/boruvka/parallel/ParBoruvka.java",
+		"/Users/Zhe/Google Drive/collaboration/秃头基佬/hw_5_boruvka/src/main/java/edu/rice/comp322/boruvka/parallel/ParBoruvka.java",
+		"/Users/Zhe/Desktop/hw_5_boruvka/src/main/java/edu/rice/comp322/boruvka/parallel/ParComponent.java",
+		"/Users/Zhe/Google Drive/collaboration/陈cook/comp322 hw_4/hw_4_written.txt",
+		"/Users/Zhe/Google Drive/collaboration/陈cook/comp322 hw_4/hw_4_eureka/hw_4_programming_report.txt",
+		"/Users/Zhe/Downloads/BasketballTeams.csv",
+		"/Users/Zhe/Documents/intellij_workspace/hw_3/src/main/resources/myjob.slurm",
+		"/Users/Zhe/Documents/intellij_workspace/hw_3——zz/src/main/java/edu/rice/comp322/SparseParScoring.java",
+		"/Users/Zhe/Downloads/hw-template.tex",
+		"/Users/Zhe/Documents/intellij_workspace/hw_2/writeUp/ww.tex",
+		"/Users/Zhe/Documents/caam 470/hw1/prob2.py",
+		"/Users/Zhe/Documents/caam 470/hw2/mydic.py",
+		"/Users/Zhe/Downloads/BinaryTrees.java",
+		"/Users/Zhe/Documents/MATLAB/caam 470/hw1/prob2.m",
+		"/Users/Zhe/Documents/intellij_workspace/hw_1/x.txt",
+		"/Users/Zhe/Downloads/SearchIndex.java",
+		"/Users/Zhe/Desktop/portfolio/framework/css/main.css",
+		"/Users/Zhe/Desktop/portfolio/framework/test.html",
+		"/Users/Zhe/Desktop/portfolio/toplist/index.html",
+		"/Users/Zhe/Desktop/portfolio/toplist/style.css",
+		"/Users/Zhe/Desktop/sat_july_2014/word_processor/weighted_random.py",
+		"/Users/Zhe/Desktop/sat_july_2014/report/comp_aggregate.py",
+		"/Users/Zhe/Desktop/Ocean.terminal",
+		"/Users/Zhe/Documents/workspace/A09/meta_data.xml",
+		"/Users/Zhe/Documents/workspace/A09/test2.xml",
+		"/Users/Zhe/Documents/workspace/A09/test1.xml",
+		"/Users/Zhe/Documents/workspace/A09/output0.xml",
+		"/Users/Zhe/Documents/workspace/A08/hi",
+		"/Users/Zhe/Google Drive/collaboration/李总/hw8/file2.xml",
+		"/Users/Zhe/Google Drive/rice/caam 210/caam12/bridge.m",
+		"/Users/Zhe/Desktop/inplace_swap.py",
+		"/Users/Zhe/Desktop/math 321 hw/hw1.tex",
+		"/Users/Zhe/Desktop/prob.py",
+		"/Users/Zhe/Desktop/stat.py",
+		"/Users/Zhe/Documents/workspace/A04/myTestCases",
+		"/Users/Zhe/Desktop/funj.java",
+		"/Users/Zhe/Desktop/382hw3.py",
+		"/Users/Zhe/Desktop/fun.py",
+		"/Users/Zhe/Desktop/try.py",
+		"/Users/Zhe/Google Drive/comp382/hw2/dafny_proof",
+		"/Users/Zhe/Desktop/try.java",
+		"/Users/Zhe/Documents/workspace/hello_world/src/hello_world/Try.java",
+		"/Users/Zhe/Documents/workspace/A11/src/WordCounter.java",
+		"/Users/Zhe/Documents/workspace/A11/src/STAT.py",
+		"/Users/Zhe/Desktop/A1/WordWrapper.java",
+		"/Users/Zhe/Desktop/ocaml.py",
+		"/Users/Zhe/Desktop/try.ml",
+		"/Users/Zhe/Desktop/tools.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"timeformate",
+			"save_pr",
+			"self.courses",
+			"time",
+			"cumcompleted",
+			"resume",
+			"start",
+			"select_all",
+			"pypad",
+			"icons",
+			"icon",
+			"line",
+			"end",
+			"aboutmenu",
+			"themchoice",
+			"right",
+			"NO",
+			"YES",
+			"')\n",
+			"build",
+			"},\n",
+			"build",
+			"lock_comp",
+			"n",
+			"Texas",
+			"Mary",
+			"Cin",
+			"print",
+			"aaa",
+			"length",
+			"test100MaxFactorize0(FactorizationTester)",
+			"long",
+			"PrintStream",
+			"printStrean",
+			"'",
+			"T",
+			"F",
+			"True-",
+			"zhang",
+			"Guangzho",
+			"GaoYueMing",
+			"codecs",
+			"Yue",
+			"pritn",
+			"*\n",
+			"info",
+			"()",
+			"print",
+			")\n",
+			"print",
+			"\"E\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Zhe/Documents/curdjango/poll_app.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 94,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 190.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "poll_app.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/pyGUI/manager/testDB.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
